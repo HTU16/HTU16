@@ -1,9 +1,9 @@
                                                Hi 👋, I'm H.TALHA  UYSAL
 
-🌱 I’m currently learning SELENIUM, HTML
+🌱 I’m currently learning Selenium, Html
 
 
-💬 Ask me about JAVA, GIT, SELENIUM, HTML
+💬 Ask me about Java, Git, Selenium, Html
 
 📫 How to reach me h.talha.uysal@gmail.com
 
