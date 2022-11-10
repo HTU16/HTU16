@@ -1,4 +1,4 @@
-                                                         Hi 👋, I'm H.TALHA  UYSAL
+                                               Hi 👋, I'm H.TALHA  UYSAL
 
 🌱 I’m currently learning SELENIUM, HTML
 
