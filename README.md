@@ -2,12 +2,14 @@
 
 🌱 I’m currently learning SELENIUM, HTML
 
+
 💬 Ask me about JAVA, GIT, SELENIUM, HTML
 
 📫 How to reach me h.talha.uysal@gmail.com
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/HTU16)
 [![Discord Badge](https://img.shields.io/badge/-Discord-5865F2?style=flat-quare&labelColor=5865F2&logo=discord&logoColor=white&link=link)](https://discord.com/channels/@me)
+
 
 
 
