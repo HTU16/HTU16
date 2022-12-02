@@ -1,9 +1,9 @@
                                                Hi 👋, I'm H.TALHA  UYSAL
 
-🌱 I’m currently learning Selenium, Html
+🌱 I’m currently learning Selenium, Html, Cucumber
 
 
-💬 Ask me about Java, Git, Selenium, Html
+💬 Ask me about Java, Git, Selenium, Html, Cucumber
 
 📫 How to reach me h.talha.uysal@gmail.com
 
