@@ -1,6 +1,6 @@
                                                Hi 👋, I'm H.TALHA  UYSAL
 
-🌱 I’m currently learning Selenium, Html, Cucumber
+🌱 I’m currently learning SQL, Html, Jenkins
 
 
 💬 Ask me about Java, Git, Selenium, Html, Cucumber
